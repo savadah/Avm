@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace NonlinearEquation
+namespace Avm7
 {
     class Program
     {
@@ -127,3 +127,4 @@ namespace NonlinearEquation
         }
     }
 }
+
