@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z4LArhNMn9A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\syrov\\source\\repos\\WinFormsApp6AVM\\WinFormsApp6AVM\\WinFormsApp6AVM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\syrov\\.nuget\\packages\\zedgraph\\5.2.1\\zedgraph.5.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

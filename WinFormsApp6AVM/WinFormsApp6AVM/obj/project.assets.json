@@ -1,0 +1,218 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "ZedGraph/5.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/ZedGraph.dll": {
+            "related": ".XML"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/ZedGraph.dll": {
+            "related": ".XML"
+          }
+        },
+        "resource": {
+          "lib/net8.0/de/ZedGraph.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net8.0/es/ZedGraph.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net8.0/fr/ZedGraph.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net8.0/hu/ZedGraph.resources.dll": {
+            "locale": "hu"
+          },
+          "lib/net8.0/it/ZedGraph.resources.dll": {
+            "locale": "it"
+          },
+          "lib/net8.0/ja/ZedGraph.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/net8.0/pt/ZedGraph.resources.dll": {
+            "locale": "pt"
+          },
+          "lib/net8.0/ru/ZedGraph.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/net8.0/sk/ZedGraph.resources.dll": {
+            "locale": "sk"
+          },
+          "lib/net8.0/sv/ZedGraph.resources.dll": {
+            "locale": "sv"
+          },
+          "lib/net8.0/tr/ZedGraph.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/net8.0/zh-CN/ZedGraph.resources.dll": {
+            "locale": "zh-CN"
+          },
+          "lib/net8.0/zh-TW/ZedGraph.resources.dll": {
+            "locale": "zh-TW"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZedGraph/5.2.1": {
+      "sha512": "n2Mq9WQ1C7WVgtU3JGc3hS963NRH9JOIXLjLZ9bO0+ZeNmtdNMcVEtXosKjG5xuRkkrSPEbL0nGmutdUfXry/Q==",
+      "type": "package",
+      "path": "zedgraph/5.2.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/License-LGPL.txt",
+        "lib/net35-Client/ZedGraph.XML",
+        "lib/net35-Client/ZedGraph.dll",
+        "lib/net35-Client/de/ZedGraph.resources.dll",
+        "lib/net35-Client/es/ZedGraph.resources.dll",
+        "lib/net35-Client/fr/ZedGraph.resources.dll",
+        "lib/net35-Client/hu/ZedGraph.resources.dll",
+        "lib/net35-Client/it/ZedGraph.resources.dll",
+        "lib/net35-Client/ja/ZedGraph.resources.dll",
+        "lib/net35-Client/pt/ZedGraph.resources.dll",
+        "lib/net35-Client/ru/ZedGraph.resources.dll",
+        "lib/net35-Client/sk/ZedGraph.resources.dll",
+        "lib/net35-Client/sv/ZedGraph.resources.dll",
+        "lib/net35-Client/tr/ZedGraph.resources.dll",
+        "lib/net35-Client/zh-CN/ZedGraph.resources.dll",
+        "lib/net35-Client/zh-TW/ZedGraph.resources.dll",
+        "lib/net481/ZedGraph.XML",
+        "lib/net481/ZedGraph.dll",
+        "lib/net481/de/ZedGraph.resources.dll",
+        "lib/net481/es/ZedGraph.resources.dll",
+        "lib/net481/fr/ZedGraph.resources.dll",
+        "lib/net481/hu/ZedGraph.resources.dll",
+        "lib/net481/it/ZedGraph.resources.dll",
+        "lib/net481/ja/ZedGraph.resources.dll",
+        "lib/net481/pt/ZedGraph.resources.dll",
+        "lib/net481/ru/ZedGraph.resources.dll",
+        "lib/net481/sk/ZedGraph.resources.dll",
+        "lib/net481/sv/ZedGraph.resources.dll",
+        "lib/net481/tr/ZedGraph.resources.dll",
+        "lib/net481/zh-CN/ZedGraph.resources.dll",
+        "lib/net481/zh-TW/ZedGraph.resources.dll",
+        "lib/net6.0/ZedGraph.XML",
+        "lib/net6.0/ZedGraph.dll",
+        "lib/net6.0/de/ZedGraph.resources.dll",
+        "lib/net6.0/es/ZedGraph.resources.dll",
+        "lib/net6.0/fr/ZedGraph.resources.dll",
+        "lib/net6.0/hu/ZedGraph.resources.dll",
+        "lib/net6.0/it/ZedGraph.resources.dll",
+        "lib/net6.0/ja/ZedGraph.resources.dll",
+        "lib/net6.0/pt/ZedGraph.resources.dll",
+        "lib/net6.0/ru/ZedGraph.resources.dll",
+        "lib/net6.0/sk/ZedGraph.resources.dll",
+        "lib/net6.0/sv/ZedGraph.resources.dll",
+        "lib/net6.0/tr/ZedGraph.resources.dll",
+        "lib/net6.0/zh-CN/ZedGraph.resources.dll",
+        "lib/net6.0/zh-TW/ZedGraph.resources.dll",
+        "lib/net8.0/ZedGraph.XML",
+        "lib/net8.0/ZedGraph.dll",
+        "lib/net8.0/de/ZedGraph.resources.dll",
+        "lib/net8.0/es/ZedGraph.resources.dll",
+        "lib/net8.0/fr/ZedGraph.resources.dll",
+        "lib/net8.0/hu/ZedGraph.resources.dll",
+        "lib/net8.0/it/ZedGraph.resources.dll",
+        "lib/net8.0/ja/ZedGraph.resources.dll",
+        "lib/net8.0/pt/ZedGraph.resources.dll",
+        "lib/net8.0/ru/ZedGraph.resources.dll",
+        "lib/net8.0/sk/ZedGraph.resources.dll",
+        "lib/net8.0/sv/ZedGraph.resources.dll",
+        "lib/net8.0/tr/ZedGraph.resources.dll",
+        "lib/net8.0/zh-CN/ZedGraph.resources.dll",
+        "lib/net8.0/zh-TW/ZedGraph.resources.dll",
+        "zedgraph.5.2.1.nupkg.sha512",
+        "zedgraph.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "ZedGraph >= 5.2.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\syrov\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\syrov\\source\\repos\\WinFormsApp6AVM\\WinFormsApp6AVM\\WinFormsApp6AVM.csproj",
+      "projectName": "WinFormsApp6AVM",
+      "projectPath": "C:\\Users\\syrov\\source\\repos\\WinFormsApp6AVM\\WinFormsApp6AVM\\WinFormsApp6AVM.csproj",
+      "packagesPath": "C:\\Users\\syrov\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\syrov\\source\\repos\\WinFormsApp6AVM\\WinFormsApp6AVM\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\syrov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "dependencies": {
+          "ZedGraph": {
+            "target": "Package",
+            "version": "[5.2.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
